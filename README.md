@@ -14,6 +14,6 @@ This repository is for an automated job tracking and proposal generation system,
 
 - **Automated Job Tracking:** Streamlines the process of finding relevant job listings by automating the search and data aggregation process.
 - **Hourly Updates:** Keeps you informed with regular updates, directly delivered to your inbox.
-- **AI-Enhanced Proposals:** Generates proposal templates through AI, facilitating rapid response to job opportunities.
+- **AI-Enhanced Proposals:** Generates proposal templates through AI, facilitating rapid response to job opportunities..
 
 ![AI Proposal](https://github.com/stephenc-ie/Gig-Scraping-and-AI-Proposals/blob/main/ai_proposal.gif?raw=true)
